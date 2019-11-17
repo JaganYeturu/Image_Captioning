@@ -1,5 +1,5 @@
 
-#need to add more comments
+
 #need to add more comments
 import torch
 import torch.nn as nn
@@ -58,4 +58,4 @@ class DecoderRNN(nn.Module):
         return tokens
 #need to add more comments
 #need to add more comments
-#need to add more comments
+
